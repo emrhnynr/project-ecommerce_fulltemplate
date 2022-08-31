@@ -1,0 +1,2 @@
+# project-ecommerce_fulltemplate
+This is a complete ecommerce system template with admin panel and all coding methods. Its prepared for my customers who wants an ecommerce website. I could make any ecommerce website in 3-4 days thanks to that software. Its amazingly detailed, everything is managable by admin panel. Its coded with PHP, JS, SQL, JQuery, CSS, HTML, AJAX, Bootstrap. Website and variable names are Turkish.
